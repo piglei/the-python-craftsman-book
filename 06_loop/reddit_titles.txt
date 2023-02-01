@@ -1,0 +1,8 @@
+python-guide: Python best practices guidebook, written for humans.
+---
+Python 2 Death Clock
+---
+Run any Python Script with an Alexa Voice Command
+---
+PyCon Latam 2019
+---
