@@ -63,7 +63,7 @@ def query_all_albums(artist):
 
     :param artist: 歌手名称
     :return: 专辑列表，List[Dict]
-    :raises: 获取专辑失败时抛出 GetAlbumsError
+    :raises: 获取专辑失败时抛出 QueryAlbumsError
     """
     resp = requests.get(
         ITUNES_API_ENDPOINT,
